@@ -3,7 +3,7 @@ description: URL Shortener hosted on GitHub Pages.
 logo:
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 
 permalink: /:slug/
 
