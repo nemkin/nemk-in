@@ -1,9 +1,9 @@
 title: nemk.in
-description: URL Shortener hosted on GitHub Pages.
+# description: URL Shortener hosted on GitHub Pages.
 logo:
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 
 permalink: /:slug/
 
