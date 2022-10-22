@@ -1,0 +1,3 @@
+[submodule "demo/quszit"]
+	path = demo/quszit
+	url = git@github.com:nemkin/cs-bme-hu-quantum.git
