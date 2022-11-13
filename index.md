@@ -1,1 +1,3 @@
-nemk.in personal URL shortener :)
+# nemk.in
+
+- [Blog](./blog)
