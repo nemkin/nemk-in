@@ -1,8 +1,8 @@
 title: nemk.in
 author: Viktória Nemkin
-permalink: /:title/
+permalink: /:slug/
 lang: "hu"
-date_format: "%Y %B %d"
+date_format: "%Y. %B %d."
 
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
