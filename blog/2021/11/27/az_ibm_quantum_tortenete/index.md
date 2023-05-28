@@ -62,8 +62,7 @@ _Források:_
 
 *   [DiVincenzo, D.P., 1997. Topics in quantum computers. In _Mesoscopic electron transport_ (pp. 657-677). Springer, Dordrecht.](https://link.springer.com/chapter/10.1007/978-94-015-8839-3_18)
 
-Az első, nukleáris mágneses rezonancián alapuló kvantumszámítógép
------------------------------------------------------------------
+## Az első, nukleáris mágneses rezonancián alapuló kvantumszámítógép
 
 1998-ban 2-3 qubites NMR, azaz nukleáris mágneses rezonancia alapú "kvantumszámítógépekkel"
 kísérleteznek. Ennek technológiának a lényege, hogy a mágneses mezőbe helyezett molekulák
