@@ -208,8 +208,7 @@ _Források:_
 * [Steffen, M., DiVincenzo, D.P., Chow, J.M., Theis, T.N. and Ketchen, M.B., 2011. Quantum computing: An IBM perspective. _IBM Journal of Research and Development_, 55(5), pp.13-1.](https://ieeexplore.ieee.org/abstract/document/6032777)
 * [Chow, J.M., Gambetta, J.M., Magesan, E., Abraham, D.W., Cross, A.W., Johnson, B.R., Masluk, N.A., Ryan, C.A., Smolin, J.A., Srinivasan, S.J. and Steffen, M., 2014. Implementing a strand of a scalable fault-tolerant quantum computing fabric. _Nature communications_, 5(1), pp.1-9.](https://www.nature.com/articles/ncomms5015)
 
-Kvantumszámítógép a felhőben: az IBM Quantum Experience
--------------------------------------------------------
+## Kvantumszámítógép a felhőben: az IBM Quantum Experience
 
 2016 előtt még az elméleti kutatók számára is nehezen lehetett kvantumszámítógéphez hozzájutni,
 általában egyedi kérésekkel keresték meg többek között az IBM kvantumhardver kutatóit. 2015-ben a
@@ -272,8 +271,7 @@ _Források:_
 
 * [Five years ago today, we put the first quantum computer on the cloud. Here’s how we did it.](https://research.ibm.com/blog/quantum-five-years)
 
-Kvantumprocesszorok fejlődése
------------------------------
+## Kvantumprocesszorok fejlődése
 
 Az 5 qubites processzorokat gyorsan követték a 17, 27, 53 és 65 qubitesek. Attól függően,
 hogy a qubitek között milyen összekötő gráf került kialakításra és azok hány qubit
@@ -311,8 +309,7 @@ _Források:_
 * [Curtain up: Fraunhofer and IBM to unveil quantum computer](https://www.fraunhofer.de/en/press/research-news/2021/june-2021/fraunhofer-and-ibm-to-unveil-quantum-computer.html)
 * [Fraunhofer goes quantum: IBM’s Quantum System One comes to Europe](https://research.ibm.com/blog/fraunhofer-quantum-system-one)
 
-A jövő
-------
+## A jövő
 
 A 2021 novemberében tartott IBM Quantum Summiton kaphattunk információt az IBM kvantum jövőképéről.
 A Keynote videó megtekinthető az IBM Research Youtube csatornáján:
