@@ -1,4 +1,9 @@
-# Az IBM Quantum története a kezdetektől a napjainkig
+---
+title:  "Az IBM Quantum története a kezdetektől a napjainkig"
+mathjax: true
+layout: post
+categories: kvantum
+---
 
 ## Alapítás
 
