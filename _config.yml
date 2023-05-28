@@ -1,11 +1,30 @@
 title: nemk.in
-# description: URL Shortener hosted on GitHub Pages.
+author: Viktória Nemkin
+permalink: /:title/
+lang: "hu"
+date_format: "%Y %B %d"
+
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: false             # use a dark header
+
 logo:
 show_downloads: false
 google_analytics:
-# theme: jekyll-theme-cayman
 
-permalink: /:slug/
+theme: jekyll-theme-cayman
 
+navigation:
+  - {file: "index.html"}
+  - {file: "README.md"}
+
+external:
+  - {title: Github, icon: github, url: "https://github.com/nemkin"}
+  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+
+remote_theme: niklasbuschmann/contrast
 plugins:
   - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-remote-theme
