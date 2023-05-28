@@ -13,7 +13,7 @@ logo:
 show_downloads: false
 google_analytics:
 
-theme: jekyll-theme-cayman
+remote_theme: niklasbuschmann/contrast
 
 navigation:
   - {file: "index.html"}
@@ -23,7 +23,6 @@ external:
   - {title: Github, icon: github, url: "https://github.com/nemkin"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
-remote_theme: niklasbuschmann/contrast
 plugins:
   - jekyll-redirect-from
   - jekyll-feed
