@@ -1,3 +1,1 @@
-# nemk.in
-
-- [Blog](./blog)
+Hello!
