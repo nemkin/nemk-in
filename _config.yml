@@ -29,6 +29,8 @@ theme_mode: dark
 
 toc: true
 paginate: 10
+pwa:
+  enabled: true
 
 # ------------ The following options are not recommended to be modified ------------------
 
