@@ -23,7 +23,7 @@ forgalmazásával és kölcsönzésével több millió dolláros bevételre tett
 terjeszkedtek Európa, Dél-Amerika, Ázsia és Ausztrália területén is. Watson 1924-ben
 keresztelte a céget az International Business Machines, azaz az IBM névre.
 
-![](./images/original_ibm_logo.png)
+![](/assets/img/2021-11-27-az-ibm-quantum-tortenete/original_ibm_logo.png)
 
 Az eredeti IBM logó  
 (Forrás: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Original_IBM_Logo.png))
@@ -34,7 +34,7 @@ a második világháború fegyvergyártásában, kifejlesztették az első „ö
 mely dámajátékot játszott, megalkották a FORTRAN programozási nyelvet, részt vettek
 több NASA vezette űrprogramban, köztük az 1969-es holdraszállásban is.
 
-![](./images/ibm_apollo_control_center.jpg)
+![](/assets/img/2021-11-27-az-ibm-quantum-tortenete/ibm_apollo_control_center.jpg)
 
 Mérnökök az IBM-től egy Apollo kilövésnél, Cape Kennedy, Florida  
 (Forrás: [ibm.com](https://www.ibm.com/blogs/think/2019/07/ibm-nasa-working-side-by-side-to-land-on-the-moon/))
@@ -42,7 +42,7 @@ Mérnökök az IBM-től egy Apollo kilövésnél, Cape Kennedy, Florida
 1981-ben pedig bemutatták az első kommerciálisan használható személyi számítógépet,
 ekkoriban szinte egyeduralkodóvá válva a számítógépes iparág piacán.
 
-![](./images/ibm_pc.png)
+![](/assets/img/2021-11-27-az-ibm-quantum-tortenete/ibm_pc.png)
 
 IBM PC  
 (Forrás: [Wikipedia](https://en.wikipedia.org/wiki/File:IBM_PC-IMG_7271_(transparent).png))
@@ -111,7 +111,7 @@ eredménynek számított. Ehhez 10^18 darab egyforma, az IBM kémikusai által k
 célra tervezett 5 fluor és 2 szénatomból felépülő perfluorobutadienyl iron complex molekulát
 használtak fel, mely egy 7 qubites kvantumszámítógépnek felelt meg.
 
-![](./images/perfluorobutadienyl_iron_complex.png)
+![](/assets/img/2021-11-27-az-ibm-quantum-tortenete/perfluorobutadienyl_iron_complex.png)
 
 A molekuláris kvantumszámítógép: perfluorobutadienyl iron complex  
 (Forrás: [IBM Research: It’s been 20 years since "15" was factored on quantum hardware](https://research.ibm.com/blog/factor-15-shors-algorithm))
@@ -165,7 +165,7 @@ elért tudományos eredményeik felhasználásra kerültek a nagyfelbontású p�
 és a mágneses gradiométerek megalkotása során. Utóbbiaknak egy későbbi változatát az Amerikai
 Egyesült Államok Haditengerészete használja autonóm víz alatti járművekkel történő bombadetektálásra.
 
-![](./images/josephson_junction.jpg)
+![](/assets/img/2021-11-27-az-ibm-quantum-tortenete/josephson_junction.jpg)
 
 Josephson-csomópont áramköri elem  
 (Forrás: [IBM Research](https://researcher.watson.ibm.com/researcher/view_group.php?id=7055))
@@ -200,7 +200,7 @@ a fizikai qubiteket pedig rezonátorok (fekete vonalak) kötik össze. Egy qubit
 valósít meg. Az elrendezés lényege, hogy a Josephson-csomópontok kvantum energiaszintjei meghatározott
 harmonikus frekvenciákon oszcillálhatnak, egymással pedig a rezonátorokon keresztül léphetnek kapcsolatba.
 
-![](./images/2D_skew_square_lattice.webp)
+![](/assets/img/2021-11-27-az-ibm-quantum-tortenete/2D_skew_square_lattice.webp)
 
 Első qubit topológia: 2D skew square lattice  
 (Forrás: [Nature](https://www.nature.com/articles/ncomms5015))
@@ -236,7 +236,7 @@ Azóta egy több alkotóelemből álló felhőszolgáltatássá fejlődött ki, 
 A [Quantum Composer](https://quantum-computing.ibm.com/composer) egy grafikus kvantumprogramozásra
 használható eszköz, melyben különböző egyszerű kvantumos áramköröket állíthatunk össze.
 
-![](./images/ibm_quantum_composer_gif_tour.gif)
+![](/assets/img/2021-11-27-az-ibm-quantum-tortenete/ibm_quantum_composer_gif_tour.gif)
 
 Quantum Composer  
 (Forrás: [quantum-computing.ibm.com](https://quantum-computing.ibm.com/composer/docs/iqx/))
@@ -291,7 +291,7 @@ melyben a négyzetrács helyett hatszög alakban helyezkednek el a qubitek. Ezze
 a hibajavítás mértéke növelhető, azonban cserébe egy kicsit csökkent a qubitek közötti
 elérhető kapcsolatok száma.
 
-![](./images/ibm_heavy_hexagonal.webp)
+![](/assets/img/2021-11-27-az-ibm-quantum-tortenete/ibm_heavy_hexagonal.webp)
 
 Qubit topológia: heavy-hexagonal  
 (Forrás: [IBM Research](https://research.ibm.com/blog/heavy-hex-lattice))
@@ -309,7 +309,7 @@ az első az USA-n kívül eladott IBM Quantum System One. A számítógépet gy�
 éghajlati modellek javítására, logisztikai rendszerek optimalizációjára, anyagtudománnyal
 kapcsolatos szimulációkra, továbbá fiatal kutatók képzésére szeretnék felhasználni.
 
-![](./images/ibm_quantum_system_one.webp)
+![](/assets/img/2021-11-27-az-ibm-quantum-tortenete/ibm_quantum_system_one.webp)
 
 IBM Quantum System One  
 (Forrás: [IBM Research](https://research.ibm.com/blog/fraunhofer-quantum-system-one))
@@ -327,7 +327,7 @@ A Keynote videó megtekinthető az IBM Research Youtube csatornáján:
 Az egyik legérdekesebb bejelentés, hogy átlépték a 100 qubites határt az Eagle processzorral, továbbá
 2023-ra 1000 fölötti qubit számot ígérnek.
 
-![](./images/ibm_quantum_roadmap.webp)
+![](/assets/img/2021-11-27-az-ibm-quantum-tortenete/ibm_quantum_roadmap.webp)
 
 IBM Quantum Development Roadmap  
 (Forrás: [IBM Research](https://research.ibm.com/blog/quantum-development-roadmap))
