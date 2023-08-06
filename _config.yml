@@ -2,30 +2,18 @@ title: nemk.in
 tagline: Quantum and classical algorithms, maths and personal stuff.
 description: This is my personal blog. :)
 
-
 author: Viktória Nemkin
 
 url: 'https://nemk.in/'
-baseurl: ''
+baseurl: ""
 permalink: /:slug/
 
 lang: hu
 timezone: Europe/Budapest
 date_format: "%Y. %B %d."
 
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
-
-logo:
-show_downloads: false
-google_analytics:
-
-
 remote_theme: cotes2020/jekyll-theme-chirpy
 theme_mode:  dark
-
 
 github:
   username: nemkin
@@ -44,7 +32,5 @@ social:
     - https://twitter.com/viktorianemkin
     - https://www.linkedin.com/in/viktorianemkin
 
-
 plugins:
-  - jekyll-redirect-from
   - jekyll-remote-theme
