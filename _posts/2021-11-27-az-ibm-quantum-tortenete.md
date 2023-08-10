@@ -9,6 +9,7 @@ tags:
  - quantum
  - qiskit
  - ibm
+math: true
 ---
 
 ## Alapítás
@@ -181,7 +182,7 @@ ez nem skálázódik jól. Ekkoriban látott napvilágot DiVincenzo egy újabb c
 foglalja a skálázható kvantumszámítógépekkel szemben támasztott elvárásokat:
 
 1. Jól meghatározott qubitek skálázható fizikai rendszere.
-2. A qubitek inicializálásának lehetősége egyszerű ismert állapotokba (például a |000..>-ba).
+2. A qubitek inicializálásának lehetősége egyszerű ismert állapotokba (például a $\ket{000..}$-ba).
 3. A kapu végrehajtási időnél jelentősen hosszabb dekoherencia idő.
 4. Kvantumkapuk egy univerzális halmaza.
 5. Qubitenkénti mérési lehetőség.
