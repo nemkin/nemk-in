@@ -45,22 +45,14 @@ jobs:
           ruby-version: 3   # reads from a '.ruby-version' or '.tools-version' file if 'ruby-version' is omitted
           bundler-cache: true
 
-      - name: Install Bundler
-        run: gem install bundler
-
-      - name: Install Dependencies
-        run: |
-          bundle config --local set verbose 1
-          bundle install
-
       - name: Build site
         run: bundle exec jekyll b --verbose -d "_site${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: "production"
 
-      #- name: Test site
-      #  run: |
-      #    bundle exec htmlproofer _site --disable-external --check-html --allow_hash_href
+      - name: Test site
+        run: |
+          bundle exec htmlproofer _site --disable-external --check-html --allow_hash_href
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v1
@@ -77,6 +69,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
-        with:
-          target_branch: gh-pages
 
