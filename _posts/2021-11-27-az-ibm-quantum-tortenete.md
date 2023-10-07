@@ -92,7 +92,7 @@ vektorhoz tartozó állapotban.
 
 _Források:_
 
-* [Gershenfeld, N. and Chuang, I.L., 1998. Quantum computing with molecules. _Scientific American_, 278(6), pp.66-71.](http://cba.mit.edu/docs/papers/98.06.sciqc.pdf)
+* [Gershenfeld, N. and Chuang, I.L., 1998. Quantum computing with molecules. _Scientific American_, 278(6), pp.66-71.](https://cba.mit.edu/docs/papers/98.06.sciqc.pdf)
 
 Az NMR technológiát használva 1998-ban több kutatócsoportnak is sikerült a gyakorlatban
 megvalósítania kvantumalgoritmus implementációt, köztük Chuang (IBM), Gershenfeld (MIT) és
