@@ -24,7 +24,7 @@ social:
 lang: en
 timezone: Europe/Budapest
 
-theme: jekyll-theme-chirpy
+remote_theme: nemkin/jekyll-theme-chirpy
 theme_mode: dark
 
 toc: true
