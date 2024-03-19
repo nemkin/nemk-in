@@ -8,6 +8,9 @@ keywords: mentor, onbizalom
 tags:
  - misc
 math: false
+image:
+  path: /assets/posts/2024-03-18-peldakepek-es-mentorok/cat_brain_why_is_it_thinking.jpg
+  alt: A meme depicting a cat yelling at a brain, with the caption "Why is it always thinking".
 ---
 
 Sokáig azt gondoltam, hogy nem vagyok elég okos. Gyerekkoromtól kezdve olyan emberek vettek körül
