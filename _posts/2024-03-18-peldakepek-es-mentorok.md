@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Példaképek és mentorok\: Az önismeret és az önértékelés zsákutcái a kutatói pályán
+title: "Példaképek és mentorok: Az önismeret és az önértékelés zsákutcái a kutatói pályán"
 date: 2024-03-18 23:00:00 +0100
 summary: Lányok napja a BME VIK-en, doktoranduszként
 categories: [misc]
