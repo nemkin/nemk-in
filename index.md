@@ -1,12 +1,5 @@
 ---
 layout: default
-title: Plot
 is_home: true
+redirect_to: /news
 ---
-
-Example thingy.
-
-## Stuff
-
-Etc2
-22
