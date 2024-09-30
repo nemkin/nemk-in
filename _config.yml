@@ -29,6 +29,7 @@ theme_mode: dark
 
 toc: true
 paginate: 10
+paginate_path: "news/page:num/"
 pwa:
   enabled: false
 future: true
