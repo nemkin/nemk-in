@@ -10,7 +10,7 @@ avatar: /assets/img/anime.png
 url: "https://nemk.in"
 baseurl: ""
 
-remote_theme: "jekyll/minima@c6e74bb"
+theme: minima
 minima:
   skin: dark
 
