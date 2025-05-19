@@ -1,5 +1,6 @@
 ---
-layout: default
-is_home: true
-redirect_to: /news
+layout: home
 ---
+# Hello world
+
+I’m on Minima!
