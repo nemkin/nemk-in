@@ -24,7 +24,7 @@ social:
 lang: en
 timezone: Europe/Budapest
 
-remote_theme: nemkin/jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy@v7.3.0
 theme_mode: dark
 
 toc: true
