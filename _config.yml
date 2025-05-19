@@ -3,7 +3,7 @@ description: Algorithms and personal stuff.
 
 avatar: /assets/img/anime.png
 
-theme: minima
+remote_theme: "jekyll/minima@c6e74bb"
 url: "https://nemk.in"
 baseurl: ""
 
