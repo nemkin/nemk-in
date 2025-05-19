@@ -1,15 +1,18 @@
 title: nemk.in
 description: Algorithms and personal stuff.
 
-avatar: /assets/img/anime.png
-
-remote_theme: "jekyll/minima@c6e74bb"
-url: "https://nemk.in"
-baseurl: ""
-
 author: Viktória Nemkin
 email:  viktoria.nemkin@gmail.com
 github_username:  nemkin
+
+avatar: /assets/img/anime.png
+
+url: "https://nemk.in"
+baseurl: ""
+
+remote_theme: "jekyll/minima@c6e74bb"
+minima:
+  skin: dark
 
 lang: en
 timezone: Europe/Budapest
