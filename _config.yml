@@ -8,10 +8,8 @@ theme: minima
 url: "https://nemk.in"
 baseurl: ""
 
-author:
-  name: Viktória Nemkin
-  email: viktoria.nemkin@gmail.com
-
+author: Viktória Nemkin
+email:  viktoria.nemkin@gmail.com
 github_username:  nemkin
 
 lang: en
